@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zomboid Mod Server Sorter/1.0.0": {
+        "runtime": {
+          "Zomboid Mod Server Sorter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zomboid Mod Server Sorter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

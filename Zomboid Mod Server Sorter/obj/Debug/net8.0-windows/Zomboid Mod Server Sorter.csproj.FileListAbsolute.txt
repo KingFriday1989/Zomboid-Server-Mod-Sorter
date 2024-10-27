@@ -1,0 +1,16 @@
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\bin\Debug\net8.0-windows\Zomboid Mod Server Sorter.exe
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\bin\Debug\net8.0-windows\Zomboid Mod Server Sorter.deps.json
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\bin\Debug\net8.0-windows\Zomboid Mod Server Sorter.runtimeconfig.json
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\bin\Debug\net8.0-windows\Zomboid Mod Server Sorter.dll
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\bin\Debug\net8.0-windows\Zomboid Mod Server Sorter.pdb
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid_Mod_Server_Sorter.Form1.resources
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.csproj.GenerateResource.cache
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.AssemblyInfoInputs.cache
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.AssemblyInfo.cs
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.csproj.CoreCompileInputs.cache
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.dll
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\refint\Zomboid Mod Server Sorter.dll
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.pdb
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\Zomboid Mod Server Sorter.genruntimeconfig.cache
+C:\Users\KingFriday\ZMSS\Zomboid Mod Server Sorter\Zomboid Mod Server Sorter\obj\Debug\net8.0-windows\ref\Zomboid Mod Server Sorter.dll
